@@ -1,5 +1,4 @@
 import "./chartbox.scss";
-import user from "../../images/userIcon.svg";
 import { Link } from "react-router-dom";
 import { Line, LineChart, ResponsiveContainer, Tooltip } from "recharts";
 
